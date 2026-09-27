@@ -77,11 +77,43 @@ A ideia é transformar este repositório em uma espécie de **guia pessoal de Gi
 | Tecnologia      | Utilização                         |
 | --------------- | ---------------------------------- |
 | 🔀 **Git**      | Sistema de controle de versão      |
-| 🐙 **GitHub**   | Hospedagem e colaboração de código |
-| 💻 **Terminal** | Execução dos comandos Git          |
+| 🐙 **GitHub**   | Hospedagem e colaboração de código |		
+| 💻 **Terminal** | Execução dos comandos Git          | 
 
 ---
 
 # 📚 Conteúdo dos estudos
 
+## O que é GIT?
+
+Git é uma forma de rastreiar todos os arquivos de nosso projeto e fazer marcos históricos. Seus objetivos incluem velocidaade, integridade de dados e suporte para fluxos de tabalho não lineares distríbuidos.
+
+## O que é GitHub?
+
+É um provedor de hospedagem na internet para desenvolvimento de softwaare e controle de versão usando GIT. Além de ser conhecido como a rede social do programador.
+
+## O que é um Repositório?
+
+É um diretório chamado .git dentro do seu projeto. Esse repositório rastreua todas as mudanças feitas nos arquivos do seu projeto, construindo um histórico.
+
+## Commit
+
+É como um ponto na linha do tempo do seu projeto.
+
+## Estágios de um Commit
+
+*`Modified`*: Alteração de um Arquivo.
+
+*`Staging`*: Arquivos prontos para serem enviados.
+
+*`Commited`*: Arquivos enviados.
+
+## Branch
+
+É como uma cópia que cria uma `Ramificação / Galho` de seu projeto primário.
+
+<div align='center'>
+<img width="80%" height="785" alt="image" src="https://github.com/user-attachments/assets/cb398f3b-a433-414b-b7a9-98ff6f6e8391" />
+</div>
+ 
 </div>
