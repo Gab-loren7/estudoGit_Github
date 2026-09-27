@@ -26,8 +26,10 @@
 <img
  width="80%"
  alt="Git e GitHub"
- src="https://github.com/user-attachments/assets/86cf21bf-ea7d-4b12-aa5b-7d2a92929707"
+ src="https://i.ytimg.com/vi/uaWtCItNry8/hqdefault.jpg"
 />
+
+<p>Começarei o meu estudo pela <a href="https://youtu.be/2c7yWlpWDJM?si=S7Sc0P-avlGRLAVR">playlist gratuita do Tiago Matos</a></p>
 
 </div>
 
