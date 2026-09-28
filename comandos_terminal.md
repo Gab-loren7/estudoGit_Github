@@ -1,12 +1,12 @@
-<div align="center">
+<div>
+  <div  align="center">
+  <h2>
+  👨‍💻 Comandos para usar no Terminal
+  </h2>
+  </div>
 
-  <h1>
-  👨‍💻 Comandos de Terminal 
-  <h1/>
+<br>
 
-  <h3>
-  Principais comandos para usar no terminal do Git. 
-  </h3>
+- `clear` : Comando usado para limpar o terminal.
 
 </div>
-  
